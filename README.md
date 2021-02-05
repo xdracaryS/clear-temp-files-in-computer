@@ -1,6 +1,6 @@
 # clear-temp-files-in-computer
 
-These script reomoving temp files for windows computer.
+These script remove temp files for windows computer.
 
 Gyazo GIF
 
